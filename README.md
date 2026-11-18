@@ -1,5 +1,7 @@
 # Paddle Billing to HubSpot CRM Webhook Sync (Open Source Example)
 
+[![CI](https://github.com/smartprov05/paddle-hubspot-sync/actions/workflows/ci.yml/badge.svg)](https://github.com/smartprov05/paddle-hubspot-sync/actions/workflows/ci.yml)
+
 A clean reference implementation demonstrating how to verify Paddle Billing webhooks and synchronize subscription status, live MRR, and renewal dates into **HubSpot CRM**.
 
 ---
